@@ -10,7 +10,6 @@ I'm a passionate full-stack developer with a deep love for crafting robust and e
 - 🗄️ **Databases**: Skilled in database design and management, using SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
 - 🌐 **RESTful & GraphQL**: Building scalable APIs and understanding different query languages.
 - ☁️ **Cloud Technologies**: Utilizing cloud platforms (AWS, Azure) for deployment and infrastructure management.
-- 🛠️ **DevOps**: CI/CD, containerization (Docker), and orchestration (Kubernetes).
 - 🔒 **Security**: Implementing best practices to ensure the safety and integrity of applications.
 - 📈 **Performance Optimization**: Proficient in identifying and resolving bottlenecks for improved application performance.
 - 🧪 **Testing**: Writing unit tests and conducting integration and end-to-end testing.
